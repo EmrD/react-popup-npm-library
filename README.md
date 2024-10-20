@@ -2,6 +2,9 @@
 
 This is an library to create a popup with Tailwind easily. 
 
+## Installation
+```npm i react-popup-package```
+
 ## Example Usage
 
 - First, you must install the library using ```npm```
